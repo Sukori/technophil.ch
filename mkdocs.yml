@@ -1,5 +1,8 @@
 site_name: Philippe Berset
-site_url: https://example.com/
+site_url: https://sukori.github.io/technophil.ch/
+site_description: Homepage et portfolio personnel de Philippe Berset
+site_author: Philippe Berset
+repo_url: https://github.com/Sukori/technophil.ch
 nav:
-  - Home: index.md
+  - Accueil: index.md
   - About: about.md
