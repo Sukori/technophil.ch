@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://sukori.github.io/technophil.ch/</loc>
          <lastmod>2022-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/</loc>
+         <loc>https://sukori.github.io/technophil.ch/about/</loc>
          <lastmod>2022-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
