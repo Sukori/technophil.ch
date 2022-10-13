@@ -5,4 +5,4 @@ site_author: Philippe Berset
 repo_url: https://github.com/Sukori/technophil.ch
 nav:
   - Accueil: index.md
-  - About: about.md
+  - Qui suis-je ?: about.md
