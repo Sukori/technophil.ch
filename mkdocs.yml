@@ -6,6 +6,7 @@ repo_url: https://github.com/Sukori/technophil.ch
 nav:
   - Accueil: index.md
   - Qui suis-je ?: about.md
+  - Projets: projects.md
 theme:
   name: material
   features:
