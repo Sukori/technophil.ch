@@ -1,4 +1,4 @@
-# technophil.ch
+# technophil.dev
 
 Site web perso utilisant mkdocs brut sans plugins.
 
