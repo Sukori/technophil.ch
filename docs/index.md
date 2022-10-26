@@ -1,7 +1,8 @@
 # Philippe Berset
 
 Salut et bienvenue dans ce coin du web.
-Je suis un ingénieur pédagogique passionné par la technologie, la montagne et les arts martiaux.
+
+Je suis un ingénieur pédagogique passionné par la technologie, la randonnée en montagne et les arts martiaux.
 
 Vous trouverez ici un résumé de mon [expérience professionnelle](about.md), [mes créations](projects.md) et mes réflexions.
 
