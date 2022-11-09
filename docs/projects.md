@@ -1,5 +1,67 @@
 # Mes projets
 
+## e-Learning
+
+### CERN Data Privacy
+
+Il s'agit à l'heure actuelle du seul module que j'ai produit qui ne contienne pas d'informations confidentielles et pour lequel j'ai reçu l'autorisation de publier le contenu ici.
+
+#### Liens
+
+[Version anglaise](./portfolio/data-Privacy-CERN-EN/story.html)
+
+[Version française](./portfolio/data-Privacy-CERN-FR/story.html)
+
+#### Objectifs
+
+Le but de cet e-Learning est de sensibiliser l'ensemble du personnel du CERN (plus de 15'000 personnes) aux règles de protection des données spécifiques à l'orrganisation. Le CERN édicte ses propres règles et le [bureau de la protection des données du CERN](https://privacy.web.cern.ch/office-data-privacy-odp) (ODP) a commandé ce module e-learning.
+
+Ce e-Learning est un module obligatoire pour toute personne travaillant sur le site du CERN.
+
+#### Design
+
+Le code de couleur était imposé par le **bureau de la protection des données du CERN**. Le module e-Learning s'inscit dans une campagne de communication qui a un branding déjà défini.
+
+Le module étant obligatoire pour plus de 15'000 personnes, il se devait d'être court. La durée visée était 15 minutes. Mis bout à bout, les pistes audio durent environ 11 minutes. Les utilisateurs mettent entre 10 et 15 minutes pour compléter le module, selon les données récoltées dans le **LMS**.
+
+#### Production
+
+Le cours a été créé avec **Articulate Storyline 3**. Les éléments graphiques ont été produits à l'aide d'**inkscape** et l'audio a été enregistré avec mon micro *Shure SM7B* et le logiciel **Audacity**. J'ai enregistré moi-même dans les deux langues.
+
+Compte tenu de l'enjeu du projet et du nombre de personnes impliquées en tant qu'experts et relecteurs, le projet a duré 11 mois jusqu'à la mise en ligne définitive. En Novembre 2023, un an après la mise en ligne la version publiée n'a pas encore été mise à jour et est toujours d'actualité.
+
+#### Post mortem
+
+Le module a reçu des retours globalement positifs. Peu de bugs ont été rapportés et sont principalement liés au navigateur **safari** sur les machines *Mac*. 95% du personnel du CERN a complété le cours. Les utilisateurs restants sont soit des nouveaux arrivants, soit recevront des rappels jusqu'à complétion du module.
+
+Etant donné qu'il y avait plus de 10 personnes impliquées dans la conception et la relecture du module, l'effort à fournir pour terminer le développement du module s'est étalé sur 11 mois et a fait l'objet de discussions minutieuses.
+
+Le produit final correspond à la demande de l'ODP du CERN et est pleinement fonctionnel.
+
+## Github
+
+Vous trouverez des projets personnels sur mon repository [github.com/Sukori](https://github.com/Sukori).
+
+### Technophil.dev
+
+Le présent site web, qui me sert de carte de visite ainsi que d'expérimentation sur **mkdocs** et l'écriture de documentation en **markdown**.
+
+### azmirabajra/Aphasie
+
+Projet de développement en groupe d'un jeu vidéo pédagogique réalisé durant le master MALTT (UNIGE). Ce jeu à été conçu à l'aide de Clickteam fusion et est à destination de personnes souffrant d'aphasie.
+
+### tutos-live-chat
+
+Application de chat en direct reposant sur la technologie `Node.js` supportée notamment par la librairie `socket.io`. Projet réalisé durant le master MALTT (UNIGE).
+
+### C-experiments
+
+Je n'ai que très peu d'occasion de me servir professionellement de mes connaissance en programmation `C`. Ce repo est un moyen pour moi de rafraichir mes connaissance et les développer. Je me suis servi du site [Project Euler](https://projecteuler.net/) pour me trouver des exercises.
+
+### Csharp-experiments
+
+Tout comme pour `C`, je n'ai pas l'occation de me servir de `C#` de manière professionnelle, et encore moins en dehors du moteur de jeu **Unity**. J'ai donc continué de résoudre les problèmes de *Project Euler* en `C#`.
+
 ## Game jams
 
 Une game jam est un évènement similaire à un hackathon. Durant une durée limitée, le plus souvent 48 heures, les participants doivent créer un jeu basé sur un thème révélé au début de la game jam. Le support est libre: jeu de société, jeu vidéo, réalité augmentée, ...

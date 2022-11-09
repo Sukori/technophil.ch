@@ -1,5 +1,7 @@
 # Philippe Berset
 
+![Photo Philippe Berset](./img/me-ggj-2020.jpg)
+
 Salut et bienvenue dans ce coin du web.
 
 Je suis un ingénieur pédagogique passionné par la technologie, la randonnée en montagne et les arts martiaux.
