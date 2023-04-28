@@ -45,11 +45,7 @@ Je travaille actuellement en tant qu'ingénieur pédagogique. Plus particulière
 
 Par ailleurs, afin de proposer des modules de formations en lignes visuellement attrayants et immersifs, je sais me servir de logiciels de [design graphique](#design-graphique), de logiciels de [montage vidéo](#montage-video) ainsi que de logiciels de [montage audio](#montage-audio). Dans ce contexte, j'ai déjà eu à équiper et mettre en place à partir de zéro un studio d'enregistrement dédié à mon équipe de formation en entreprise (HR Learning & Development).
 
-Enfin, il m'arrive de développer des pages web interactives en [javascript](https://www.javascript.com/) ou des applications [node.js](https://nodejs.org/en/) avec ou sans [React](https://reactjs.org/). Je considère les compétences en développement web très importantes, notamment pour mettre en place un environnement d'apprentissage tirant parti de [xAPI](https://xapi.com/), anciennement nommée "Tin Can API". A l'heure actuelle, xAPI requiert des compétences en **javascript** et peu d'outils auteurs intègrent efficacement ce standard.
-
-#### Aparté sur xAPI
-
-Vous pourriez penser que xAPI n'est pas si intéressant que cela, mais c'est négliger la puissance de ce standard et le suivi qu'il permet au moyen d'un [Learning Record Store](https://xapi.com/learning-record-store/)(LRS). L'objectif de ce standard est de permettre à l'équipe de formation de traquer et analyser toutes les actions effectuées par un apprenant, aussi bien dans l'environnement de formation que dans son travail quotidien. Il devient donc possible d'analyser la partie "learning on the job" ou l'apprentissage "sur le tas". Il ne s'agit pas d'espionner les employés, mais bien de comprendre leur environnement de travail et de proposer des expériences d'apprentissages toujours plus proches de leurs besoins réels. Une certaine déontologie de l'équipe de formation est donc nécessaire !
+Enfin, il m'arrive de développer des pages web interactives en [javascript](https://www.javascript.com/) ou des applications [node.js](https://nodejs.org/en/) avec ou sans [React](https://reactjs.org/). Je considère les compétences en développement web très importantes, notamment pour mettre en place un environnement d'apprentissage tirant parti de [xAPI](https://xapi.com/). À l'heure actuelle, xAPI requiert des compétences en **javascript** et peu d'outils auteurs intègrent efficacement ce standard.
 
 ### Suite office
 

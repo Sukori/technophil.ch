@@ -68,6 +68,18 @@ Une game jam est un évènement similaire à un hackathon. Durant une durée lim
 
 J'ai participé à plusieurs éditions de la [Global Game Jam](https://globalgamejam.org/) et à plusieurs éditions de l'[Epic Game Jam](https://epicgamejam.com/).
 
+### Beetroot Kong
+
+[Page du projet](https://globalgamejam.org/2023/games/beetroot-cong-4)
+
+Un jeu de plateforme reprenant les bases du premier jeu "Donkey Kong" sur Nintendo Entertainment System (1983). Terminez le parcours 4 fois en évitant les éléments radioactifs pour gagner le jeu.
+
+Développé avec le moteur de jeu **Unity**
+
+Réalisé en **48 heures** lors de la **Global Game Jam 2023** à l'HEPIA Genève (Suisse).
+
+J'ai dessiné les personnages à l'aide d'**infinite painter** sur **tablette Android**.
+
 ### Brikolaïka
 
 [Page du projet](https://globalgamejam.org/2020/games/brico-la%C3%AFka-0)
