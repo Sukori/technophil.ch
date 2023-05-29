@@ -11,7 +11,7 @@
 * Création d'une [documentation](https://technophil.dev/projects/#cern-e-learning-guidelines) pour la création cadrée de modules e-learning au CERN.
 * Gestion du programme de langues et établissement d'un nouveau contrat avec un centre de formation
 * Gestion du LMS [People Fluent](https://www.peoplefluent.com/)
-* Création de modules e-learning avec **Articulate Storyline 3**: [Data Privacy](https://technophil.dev/projects//#cern-data-privacy), Crisis Management, People Management, Users Office
+* Création de modules e-learning avec **Articulate Storyline 3**: [Data Privacy](https://technophil.dev/projects/#cern-data-privacy), Crisis Management, People Management, Users Office
 * Equipement et installation d'un studio d'enregistrement
 * Enregistrement et montage [audio](#montage-audio) / [vidéo](#montage-video)
 * Accueil bi-mensuel des nouveaux employés dans le processus d'[Onboarding](https://indico.cern.ch/category/13631/)
