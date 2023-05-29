@@ -2,6 +2,33 @@
 
 ## e-Learning
 
+### CERN E-learning guidelines
+
+Ce projet est une documentation que j'ai créée afin de laisser une marche à suivre unique et claire pour la création d'e-learnings et de contenu de formation au CERN.
+
+#### Lien
+
+[Documentation bilingue](https://sukori.github.io/Learning_Guidelines/)
+Note: cette documentation est publiée sur le gitlab interne du CERN. La présente version public reflète l'état des guidelines telles qu'elles étaient jusqu'à Juin 2023.
+
+#### Objectifs
+
+Il n'y  avait aucune ligne directrice relative à la création d'e-learnings au CERN. Cette documentation reflète le type de contenu que j'aurais aimé recevoir lors de les premiers jours de travail dans mon poste.
+
+Cette documentation contenir de l'aide relative au design des modules e-learning SCORM, par exemple créés à l'aide de **Storyline** ou **Captivate**. Il y a également des modèles de modules préconstruits et prêts à l'emploi. Enfin, il y a des éléments concernant la création de vidéos à l'aide du [studio d'enregistrement](https://technophil.dev/about/#cern-2020-2023) que j'ai mis en place pour l'équipe HR-LD.
+
+#### Design
+
+Cette documentation S'adresse à un public potentiellement non-expert, tout en étant utilisable par des utilisateurs experts.
+
+Visuellement, le thème [Material](https://squidfunk.github.io/mkdocs-material/) de [MKDOCS](https://www.mkdocs.org/) est utilisé. Il est simple d'utilisation et est couramment utilisé dans d'autres documentations du CERN.
+
+#### Production
+
+La documentation est écrite en [Markdown](https://www.markdownguide.org/) et publiée sur l'instance [Gitlab](https://about.gitlab.com/) interne au réseau du CERN. Markdown est déjà utilisé par l'équipe HR-LD du CERN et Gitlab est la plateforme standard pour déployer une telle documentation au CERN.
+
+La production de cette documentation a été effectuée dans le respect des outils déjà en place et des connaissances préalables des utilisateurs.
+
 ### CERN Data Privacy
 
 Il s'agit à l'heure actuelle du seul module que j'ai produit qui ne contienne pas d'informations confidentielles et pour lequel j'ai reçu l'autorisation de publier le contenu ici.
