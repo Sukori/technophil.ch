@@ -98,13 +98,17 @@ Tous les langages que j'ai appris à ce jour:
 
 ## Etudes
 
+### 42 Lausanne
+
+* 2023-actuel [Formation en programmation générale](http://42lausanne.ch/) (langage C)
+
 ### Université de Genève
 
-* [Master MALTT](https://maltt.unige.ch/) - *UNIGE Faculté de psychologie et des Sciences de l'éducation*
+* 2016-2018 [Master MALTT](https://maltt.unige.ch/) - *UNIGE Faculté de psychologie et des Sciences de l'éducation*
     * Thèse de Master: *Visualisation des données de recherche concernant le partage des émotions : une approche centrée utilisateurs*
     * [Projets d'étude](http://tecfaetu.unige.ch/etu-maltt/wall-e/bersetp0/)
-* Bachelor - *[UNIGE Faculté de psychologie et des Sciences de l'éducation](https://www.unige.ch/fapse/)*
-* Bachelor - *[UNIGE Faculté des sciences (informatique)](https://www.unige.ch/dinfo/formations/bachelor/)*
+* 2012-2016 Bachelor - *[UNIGE Faculté de psychologie et des Sciences de l'éducation](https://www.unige.ch/fapse/)*
+* 2009-2012 Bachelor (non terminé) - *[UNIGE Faculté des sciences (informatique)](https://www.unige.ch/dinfo/formations/bachelor/)*
 
 ## Langues
 
