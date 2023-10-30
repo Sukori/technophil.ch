@@ -3,13 +3,41 @@ site_url: https://sukori.github.io/technophil.ch/
 site_description: Homepage et portfolio personnel de Philippe Berset
 site_author: Philippe Berset
 repo_url: https://github.com/Sukori/technophil.ch
-nav:
-  - Accueil: index.md
-  - Qui suis-je ?: about.md
-  - Projets: projects.md
+#nav:
+#  - Accueil: index.md
+#  - Qui suis-je ?: about.md
+#  - Projets: projects.md
 theme:
   name: material
   features:
     - navigation.tabs
     - toc.integrate
     - navigation.top
+extra:
+  alternate:
+    - name: English
+      link: ./
+      lang: en
+    - name: Français
+      link: ./fr/
+      lang: fr
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - i18n:
+      default_language: fr
+      languages:
+        en: english
+        fr: français
+      nav_translations:
+        en:
+          - Home: index.en.md
+          - About me: about.en.md
+          - Projects: projects.en.md
+        fr:
+          - Accueil: index.en.md
+          - Qui suis-je ?: about.en.md
+          - Projets: projects.en.md
