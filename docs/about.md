@@ -82,7 +82,7 @@ Pour l'enregistrement de vidéos, je me sers d'[OBS Studio](https://obsproject.c
 
 J'effectue la majorité de mes montages audio sur [Audacity](https://www.audacityteam.org/). Je m'en sers pour le montage et la réduction de bruit de fond dans les enregistrements d'audio en voix off pour les e-learning ou dans les vidéos.
 
-Je dispose, à titre privé, d'une interface audio [Focusrite Scarlett](https://focusrite.com/en/scarlett) et ses logiciels associés.
+Je dispose, à titre privé, d'une interface audio [TC-Helicon GOXLR](https://www.tc-helicon.com/product.html?modelCode=P0CQK) et ses logiciels associés, ainsi qu'un micro studio [Shure SM7B](https://www.shure.com/fr-FR/produits/microphones/sm7b?variant=SM7B).
 
 ### Programmation
 
@@ -114,5 +114,5 @@ Tous les langages que j'ai appris à ce jour:
 
 * Français (natif)
 * Anglais (avancé C1, professionel)
-* Allemand (intermédiaire B1)
+* Allemand (intermédiaire A2)
 * Japonais (basique A1)

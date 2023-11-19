@@ -35,9 +35,9 @@ Il s'agit à l'heure actuelle du seul module que j'ai produit qui ne contienne p
 
 #### Liens
 
-[Version anglaise](./../portfolio/data-Privacy-CERN-EN/story.html)
+[Version anglaise](./portfolio/data-Privacy-CERN-EN/story.html)
 
-[Version française](./../portfolio/data-Privacy-CERN-FR/story.html)
+[Version française](./portfolio/data-Privacy-CERN-FR/story.html)
 
 #### Objectifs
 
