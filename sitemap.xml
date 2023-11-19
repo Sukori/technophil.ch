@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://sukori.github.io/technophil.ch/</loc>
-         <lastmod>2023-10-30</lastmod>
+         <loc>https://technophil.dev/</loc>
+         <lastmod>2023-11-19</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://sukori.github.io/technophil.ch/en/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://sukori.github.io/technophil.ch/fr/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://technophil.dev/en/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://technophil.dev/fr/"/>
          
     </url>
     <url>
-         <loc>https://sukori.github.io/technophil.ch/page2/about/</loc>
-         <lastmod>2023-10-30</lastmod>
+         <loc>https://technophil.dev/about/</loc>
+         <lastmod>2023-11-19</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://sukori.github.io/technophil.ch/en/page2/about/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://sukori.github.io/technophil.ch/fr/page2/about/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://technophil.dev/en/about/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://technophil.dev/fr/about/"/>
          
     </url>
     <url>
-         <loc>https://sukori.github.io/technophil.ch/page3/projects/</loc>
-         <lastmod>2023-10-30</lastmod>
+         <loc>https://technophil.dev/projects/</loc>
+         <lastmod>2023-11-19</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://sukori.github.io/technophil.ch/en/page3/projects/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://sukori.github.io/technophil.ch/fr/page3/projects/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://technophil.dev/en/projects/"/>
+         <xhtml:link rel="alternate" hreflang="fr" href="https://technophil.dev/fr/projects/"/>
          
     </url>
 </urlset>
